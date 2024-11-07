@@ -10,7 +10,7 @@ export const Footer = () => {
         </div>
         <div className={styles["contact-item"]}>
           <i className="fa-solid fa-envelope"></i>
-          <h2 className={styles["social-text"]}>contatos@eddiflix.com</h2>
+          <h2 className={styles["social-text"]}>contatos@eddieflix.com</h2>
         </div>
         <div className={styles["contact-item"]}>
           <i className="fa-solid fa-location-dot"></i>
